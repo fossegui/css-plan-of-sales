@@ -1,5 +1,3 @@
- <h1> Interface for plan of sales </h>
-  
 #css-plan-of-sales
 A interface model contenting prices for a hypothetical service. It have support for more than one screen size.
 
